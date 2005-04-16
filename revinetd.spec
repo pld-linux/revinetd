@@ -5,7 +5,7 @@ Version:	1.0
 Release:	1
 License:	GPL
 Group:		Networking/Daemons
-Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/revinetd/%{name}-%{version}.tar.gz
 # Source0-md5:	cd664acb370e3d0dba279f7dd513481c
 URL:		http://revinetd.sourceforge.net/
 BuildRequires:	autoconf
