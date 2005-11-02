@@ -1,12 +1,12 @@
 Summary:	revinetd - reverse data port forwarder
 Summary(pl):	revinetd - narzêdzie do odwrotnego przekierowywania portów
 Name:		revinetd
-Version:	1.0
+Version:	1.0.1
 Release:	1
 License:	GPL
 Group:		Networking/Daemons
 Source0:	http://dl.sourceforge.net/revinetd/%{name}-%{version}.tar.gz
-# Source0-md5:	cd664acb370e3d0dba279f7dd513481c
+# Source0-md5:	b04af5730498fa3e625a52c5fb79816b
 URL:		http://revinetd.sourceforge.net/
 BuildRequires:	autoconf
 BuildRequires:	automake
