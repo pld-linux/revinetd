@@ -1,5 +1,5 @@
 Summary:	revinetd - reverse data port forwarder
-Summary(pl):	revinetd - narzêdzie do odwrotnego przekierowywania portów
+Summary(pl.UTF-8):   revinetd - narzÄ™dzie do odwrotnego przekierowywania portÃ³w
 Name:		revinetd
 Version:	1.0.1
 Release:	1
@@ -18,12 +18,12 @@ operates in two modes, listen-listen and connect-connect. It can be
 used to forward traffic through firewalls where outbound rule sets are
 more liberal than inbound rules.
 
-%description -l pl
-Revinetd to implementacja GNU zmieniacza rodzaju TCP. Dzia³a w dwóch
-trybach: s³uchania-s³uchania i ³±czenia-³±czenia. Mo¿e byæ u¿ywany do
-przekierowywania ruchu poprzez firewalle, gdzie zestawy regu³ dla
-po³±czeñ wychodz±cych s± bardziej liberalne ni¿ dla po³±czeñ
-przychodz±cych.
+%description -l pl.UTF-8
+Revinetd to implementacja GNU zmieniacza rodzaju TCP. DziaÅ‚a w dwÃ³ch
+trybach: sÅ‚uchania-sÅ‚uchania i Å‚Ä…czenia-Å‚Ä…czenia. MoÅ¼e byÄ‡ uÅ¼ywany do
+przekierowywania ruchu poprzez firewalle, gdzie zestawy reguÅ‚ dla
+poÅ‚Ä…czeÅ„ wychodzÄ…cych sÄ… bardziej liberalne niÅ¼ dla poÅ‚Ä…czeÅ„
+przychodzÄ…cych.
 
 %prep
 %setup -q
