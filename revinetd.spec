@@ -1,5 +1,5 @@
 Summary:	revinetd - reverse data port forwarder
-Summary(pl.UTF-8):   revinetd - narzędzie do odwrotnego przekierowywania portów
+Summary(pl.UTF-8):	revinetd - narzędzie do odwrotnego przekierowywania portów
 Name:		revinetd
 Version:	1.0.1
 Release:	1
